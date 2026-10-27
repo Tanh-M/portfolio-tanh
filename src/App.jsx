@@ -118,7 +118,7 @@ function SectionHeading({ eyebrow, title, description }) {
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
-  const email = 'TON-EMAIL@EXEMPLE.COM'
+  const email = 'tanhmouele12@gmail.com'
 
   const closeMenu = () => setMenuOpen(false)
 
